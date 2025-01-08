@@ -1,0 +1,13 @@
+keras
+tensorflow
+matplotlib
+pillow
+scikit-learn
+seaborn
+pandas
+numpy
+opencv-python
+google-colab
+imageio
+tqdm
+tensorflow-addons
